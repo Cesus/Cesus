@@ -1,4 +1,4 @@
-- 🙋‍♂️ Hey I’m @Cesus!
+- 🙋‍♂️ Hey I’m @Cesus! A first year computer science student at Carleton U
 - 👀 I’m interested in web development, technology in human health, and self driving cars
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on web development projects
